@@ -21,7 +21,7 @@ Nosso público-alvo são pessoas que viajam ou se interessam por viagens, sejam 
 
 ## Como executar o projeto
 - Clonar repositório: <br>
-  `git clone git@github.com:jeanwilker/projeto-integrador.git` <br>
+  `git clone git@github.com:anamariabrito/projeto-integrador.git` <br>
   
 - Entrar no repositório: <br>
   `cd trail` <br>
